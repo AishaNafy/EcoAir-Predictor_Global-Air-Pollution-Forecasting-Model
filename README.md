@@ -1,5 +1,5 @@
 # Global Air Pollution Forecasting Model
---
+
 
 <br>
 <p align="center">
@@ -7,14 +7,17 @@
 </p>
 <br>
 
+
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5+-orange.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-1.5+-orange.svg" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
---
+
+
+---
 
 ## 🔹 Project Overview
 
