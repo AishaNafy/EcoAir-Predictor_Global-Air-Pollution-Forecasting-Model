@@ -1,4 +1,4 @@
-<img src="notebooks/warning.png" width="20"> <b>Global Air Pollution Forecasting Model<b>
+## EcoAir Predictor : Global-Air-Pollution-Forecasting-Model
 
 
 <br>
