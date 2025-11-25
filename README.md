@@ -1,4 +1,4 @@
-<img src="OopAddBook/src/main/webapp/logo.png" width="10"># Global Air Pollution Forecasting Model
+<img src="notebooks/warning.png" width="10"># Global Air Pollution Forecasting Model
 
 
 <br>
