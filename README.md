@@ -203,3 +203,12 @@ This web application forecasts the PM2.5 Air Quality Index (AQI) based on enviro
 - Plotly for advanced visualizations  
 
 ---
+
+
+## 👩🏻‍💻 Author
+Developed by **[Aisha_Nafy](https://www.linkedin.com/in/aisha-nafy/)**   
+Undergraduate Information Technology Student | SLIIT  
+
+
+
+---
