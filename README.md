@@ -6,6 +6,11 @@
 </p>
 <br>
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5+-orange.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 ---
 
 ## 🔹 Project Overview
