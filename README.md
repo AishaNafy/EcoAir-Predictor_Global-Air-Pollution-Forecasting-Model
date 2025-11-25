@@ -1,4 +1,4 @@
-<img src="notebooks/warning.png" width="50"> <b>Global Air Pollution Forecasting Model<b>
+<img src="notebooks/warning.png" width="20"> <b>Global Air Pollution Forecasting Model<b>
 
 
 <br>
