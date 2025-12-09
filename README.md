@@ -3,7 +3,10 @@
 
 <br>
 <p align="center">
-🌐 Try Live Demo <a href="https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.app/" target="_blank"></a>
+  🌐 Try Live Demo  
+  <a href="https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.app/" target="_blank">
+    Click Here
+  </a>
 </p>
 <br>
 
